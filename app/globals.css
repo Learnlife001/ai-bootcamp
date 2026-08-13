@@ -100,7 +100,7 @@ button { font: inherit; }
   .contact { min-height: 100svh; }.contact h2 { font-size: 18vw; }.contact-links { grid-template-columns: 1fr; }.footer-bottom { flex-direction: column; gap: .6rem; }.footer-bottom span:nth-child(2) { display: none; }
 }
 
-@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; } .tool-marquee > div { animation: toolRun 14s linear infinite !important; } }
 
 /* Keep a clearly moving ticker and readable hero copy on small screens. */
 
