@@ -26,6 +26,17 @@ The portfolio is deployed on Vercel and served through the custom domain `cj.gre
 2. SecureTask API
 3. CyberRecon
 
+## Latest project: Private AI Setup
+
+Built a private AI setup with Gemma 4B running locally in LM Studio, then securely connected it to an iPhone through LM Link. The model remains on personal hardware while still being available from a phone.
+
+- Video preview: `public/assets/private-llm.mp4`
+- [View the Instagram post](https://www.instagram.com/reel/Db-sj73u4EP/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+## Project navigation
+
+The Selected Work cards link directly to the matching project or section below, with smooth scrolling for each of the original nine projects plus the Private AI Setup.
+
 ## Technology
 
 React, TypeScript, Next.js, Tailwind CSS, Framer Motion and Lucide React.
