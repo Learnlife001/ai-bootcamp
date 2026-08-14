@@ -41,6 +41,14 @@ The Selected Work cards link directly to the matching project or section below, 
 
 React, TypeScript, Next.js, Tailwind CSS, Framer Motion and Lucide React.
 
+## SEO
+
+The production site includes canonical metadata, Open Graph and X/Twitter social cards, JSON-LD profile data, a crawler policy, sitemap, web-app manifest and a branded dynamic share image.
+
+- [Robots policy](https://cj.greglabs.nl/robots.txt)
+- [XML sitemap](https://cj.greglabs.nl/sitemap.xml)
+- [Web app manifest](https://cj.greglabs.nl/manifest.webmanifest)
+
 ## Run locally
 
 ```bash
